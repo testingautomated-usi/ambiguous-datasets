@@ -18,3 +18,11 @@ The datasets, in various formats, are available under the "recent releases".
   year = {2022}
 }
 ```
+
+
+## Huggingface Datasets
+
+We strongly suggest you use our datasets through 🤗 datasets (`pip install datasets`).
+For instructions and a detailed dataset card, please navigate to the corresponding huggingface repos:
+- [mnist_ambigous](https://huggingface.co/datasets/mweiss/mnist_ambiguous)
+- [fashion_mnist_ambiguous](https://huggingface.co/datasets/mweiss/fashion_mnist_ambiguous)
