@@ -3,7 +3,7 @@
 This repository serves to release our ambiguous datasets for mnist and fashion-mnist. 
 The images were created such that they have an unclear ground truth, i.e., such that they are similar to multiple - but not all - of the datasets classes. For details, please see our [paper](https://arxiv.org/abs/2207.10495).
 
-The datasets, in various formats, are available under the "recent releases".
+The datasets, in various formats, are available under the "recent releases" (for that reason, the repository appears empty).
 
 
 ## Citation
